@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Projects\StudentManagementSystem\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4022908979.index
+\smsapp\src\main\java
+D:\Projects\StudentManagementSystem\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1943347974.index
+\smsapp\src\main\resources

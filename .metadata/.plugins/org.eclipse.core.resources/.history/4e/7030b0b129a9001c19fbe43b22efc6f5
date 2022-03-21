@@ -1,0 +1,5 @@
+package com.greatlearning.smsapp.controller;
+
+public class StudentController {
+
+}

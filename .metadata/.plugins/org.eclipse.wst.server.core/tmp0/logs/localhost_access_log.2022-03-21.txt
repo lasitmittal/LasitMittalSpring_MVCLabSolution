@@ -1,0 +1,12 @@
+127.0.0.1 - - [21/Mar/2022:22:04:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:04:30 +0530] "GET /smsapp/ HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:04:45 +0530] "GET /smsapp/student/list HTTP/1.1" 200 1201
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:05:17 +0530] "GET /smsapp/student/showFormForAdd HTTP/1.1" 200 1560
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:05:36 +0530] "POST /smsapp/student/save HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:05:36 +0530] "GET /smsapp/student/list HTTP/1.1" 200 1747
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:05:39 +0530] "GET /smsapp/student/showFormForUpdate?studentId=1 HTTP/1.1" 200 1582
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:05:46 +0530] "POST /smsapp/student/save HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:05:46 +0530] "GET /smsapp/student/list HTTP/1.1" 200 1743
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:05:49 +0530] "GET /smsapp/student/showFormForAdd HTTP/1.1" 200 1560
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:06:03 +0530] "POST /smsapp/student/save HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Mar/2022:22:06:03 +0530] "GET /smsapp/student/list HTTP/1.1" 200 2282
